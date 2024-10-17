@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	LaTeX Beamer Template for Chongqing University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cqubeamer
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cqubeamer
 License:	mit cc-by-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cqubeamer.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cqubeamer.doc.r%{version}.tar.xz
